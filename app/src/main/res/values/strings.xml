@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kaliqwi</string>
+    <string name="tagline">Твой музыкальный дневник</string>
+
+    <string name="login_title">С возвращением!</string>
+    <string name="login_subtitle">Войди, чтобы продолжить вести дневник</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Пароль</string>
+    <string name="btn_login">Войти</string>
+    <string name="no_account">Нет аккаунта? Зарегистрироваться</string>
+    <string name="forgot_password">Забыли пароль?</string>
+
+    <string name="register_title">Создать аккаунт</string>
+    <string name="register_subtitle">Начни записывать свою музыку уже сегодня</string>
+    <string name="hint_username">Имя пользователя</string>
+    <string name="hint_confirm">Повторите пароль</string>
+    <string name="btn_register">Зарегистрироваться</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+    <string name="helper_min6">Минимум 6 символов</string>
+
+    <string name="btn_logout">Выйти</string>
+    <string name="hello_user">Привет, %1$s! 🎵</string>
+
+    <string name="cd_logo">Логотип Kaliqwi</string>
+    <string name="cd_email_icon">Иконка email</string>
+    <string name="cd_lock_icon">Иконка пароля</string>
+    <string name="cd_person_icon">Иконка пользователя</string>
+</resources>

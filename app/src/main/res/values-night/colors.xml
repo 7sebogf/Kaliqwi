@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kaliqwi_primary">#7E6BE8</color>
+    <color name="kaliqwi_primary_dark">#4A3A9E</color>
+    <color name="kaliqwi_accent">#E04876</color>
+    <color name="kaliqwi_secondary">#00BFA5</color>
+    <color name="kaliqwi_soft">#121218</color>
+
+    <color name="gradient_start">#3D2E85</color>
+    <color name="gradient_mid">#5D4CC9</color>
+    <color name="gradient_end">#C73E68</color>
+
+    <!-- ★ ВАЖНО: white тоже переопределяем -->
+    <color name="white">#1E1E28</color>       <!-- белый фон → тёмный -->
+    <color name="black">#F0F0F5</color>       <!-- чёрный текст → светлый -->
+
+    <color name="text_primary">#F0F0F5</color>
+    <color name="text_secondary">#B0B0C0</color>
+    <color name="divider">#2A2A35</color>
+    <color name="error">#FF6B6B</color>
+    <color name="card_bg">#1E1E28</color>
+</resources>

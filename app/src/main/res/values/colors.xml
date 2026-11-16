@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kaliqwi_primary">#5D4CC9</color>
+    <color name="kaliqwi_primary_dark">#3D2E96</color>
+    <color name="kaliqwi_accent">#E04876</color>
+    <color name="kaliqwi_secondary">#00BFA5</color>
+    <color name="kaliqwi_soft">#F4F2FF</color>
+
+    <color name="gradient_start">#5D4CC9</color>
+    <color name="gradient_mid">#8B5FBF</color>
+    <color name="gradient_end">#E04876</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#4F4F4F</color>
+    <color name="divider">#EAEAF2</color>
+    <color name="error">#E53935</color>
+    <color name="card_bg">#FFFFFF</color>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Kaliqwi.TextField" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:minHeight">56dp</item>
+        <item name="boxStrokeColor">@color/kaliqwi_primary</item>
+        <item name="hintTextColor">@color/kaliqwi_primary</item>
+        <item name="startIconTint">@color/kaliqwi_primary</item>
+        <item name="endIconTint">@color/kaliqwi_primary</item>
+    </style>
+
+    <style name="Kaliqwi.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_height">56dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.03</item>
+        <item name="cornerRadius">28dp</item>
+        <item name="backgroundTint">@color/kaliqwi_primary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="ExposedDropdownMenu" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="android:minHeight">56dp</item>
+        <item name="boxStrokeColor">@color/kaliqwi_primary</item>
+        <item name="hintTextColor">@color/kaliqwi_primary</item>
+    </style>
+
+    <style name="Kaliqwi.Chip" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/kaliqwi_soft</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="chipStrokeColor">@color/kaliqwi_primary</item>
+        <item name="chipStrokeWidth">1dp</item>
+    </style>
+
+    <style name="Kaliqwi.Chip.Dark" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/white</item>
+        <item name="android:textColor">@color/kaliqwi_primary</item>
+        <item name="chipStrokeColor">@color/white</item>
+        <item name="chipStrokeWidth">1dp</item>
+        <item name="checkedIconVisible">false</item>
+        <item name="chipIconTint">@color/kaliqwi_primary</item>
+    </style>
+
+</resources>
